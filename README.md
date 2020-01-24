@@ -1,2 +1,2 @@
 # flasky
-#### An exploration for flask and python full deployment
+#### An exploration for python full deployment with flask and azure.
